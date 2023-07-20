@@ -1,4 +1,4 @@
-## Proyect Builder Vite 
+## Project Builder Vite 
 
 cd proyect-name
 
