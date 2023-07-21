@@ -1,9 +1,16 @@
-## Proyect Builder Vite 
+# Project Builder Vite 
 
-cd proyect-name
+This project was created with [Vite](https://vitejs.dev).
 
-npm run dev
+## Available Scripts
 
-or 
+### `cd proyect-name`
 
-npm run build
+### `npm run dev`
+
+or
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
