@@ -6,6 +6,8 @@ This project was created with [Vite](https://vitejs.dev).
 
 ### `cd proyect-name`
 
+### `npm install or npm i`
+
 ### `npm run dev`
 
 or
