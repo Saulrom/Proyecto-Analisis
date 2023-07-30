@@ -5,6 +5,7 @@ import { RegisterPage } from "../components/RegisterPage";
 import { HomeEvents } from "../components/HomeEvents";
 import { ProtectedRoute } from "./ProtectedRoute";
 import { ResetPassword } from "../components/ResetPassword";
+import { Camera } from "../scanner/Camera";
 
 export const AppRouter = () => {
   return (
@@ -30,6 +31,7 @@ export const AppRouter = () => {
           }
         />
         <Route path="*" element={<h1>Error 404</h1>} />
+        <Route path="/barcode" element={<Camera/>} />
       </Routes>
     </>
   );

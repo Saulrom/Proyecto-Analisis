@@ -4,7 +4,7 @@ This project was created with [Vite](https://vitejs.dev).
 
 ## Available Scripts
 
-### `cd proyect-name`
+### `cd project-name`
 
 ### `npm install or npm i`
 
