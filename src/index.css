@@ -1,6 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* Habilitar estilos de animación de Tailwind CSS */
+@import 'tailwindcss/animations';
+@tailwind animations;
 
 body {
   background-color: #f1f1f1;
