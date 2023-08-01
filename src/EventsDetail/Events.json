@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Evento 1",
+    "description": "Descripción del evento 1.",
+    "date": "2023-08-15",
+    "imageUrl": "https://example.com/event1.jpg",
+    "eventType": "Presencial"
+  },
+  {
+    "id": 2,
+    "title": "Evento 2",
+    "description": "Descripción del evento 2.",
+    "date": "2023-08-15",
+    "imageUrl": "https://example.com/event2.jpg",
+    "eventType": "Presencial"
+  },
+  {
+    "id": 3,
+    "title": "Evento 3",
+    "description": "Descripción del evento 3.",
+    "date": "2023-08-15",
+    "imageUrl": "https://example.com/event3.jpg",
+    "eventType": "Presencial"
+  },
+  {
+    "id": 4,
+    "title": "Evento 4",
+    "description": "Descripción del evento 4.",
+    "date": "2023-08-15",
+    "imageUrl": "https://example.com/event4.jpg",
+    "eventType": "Presencial"
+  },
+  {
+    "id": 5,
+    "title": "Evento 5",
+    "description": "Descripción del evento 5.",
+    "date": "2023-08-15",
+    "imageUrl": "https://example.com/event5.jpg",
+    "eventType": "Presencial"
+  },
+  {
+    "id": 6,
+    "title": "Evento 6",
+    "description": "Descripción del evento 6.",
+    "date": "2023-08-15",
+    "imageUrl": "https://example.com/event6.jpg",
+    "eventType": "Presencial" 
+  }
+  ]
+  
